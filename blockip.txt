@@ -12,3 +12,4 @@
 86.59.29.213 # ex7.manstein.at
 62.210.76.171 # mail.ecommerces.eu
 89.102.15.0/24 # upcbroadband.cz
+185.222.211.10 #serv-mail.info
