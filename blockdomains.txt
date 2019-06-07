@@ -37,3 +37,4 @@ upcert.ru
 ntd24.ru
 ntd-cert.ru
 snta.ru
+stolicaeducation.ru
