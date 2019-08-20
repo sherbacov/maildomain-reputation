@@ -50,3 +50,4 @@ pravovest.ru
 cert1.ru
 goszakaz-sochi.ru
 tender-bid.ru
+center-ks.ru
