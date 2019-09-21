@@ -15,3 +15,4 @@
 89.102.15.0/24 # upcbroadband.cz
 185.222.211.10 #serv-mail.info
 83.64.76.76
+193.37.70.0/24 # serverlux seo spam
