@@ -58,3 +58,4 @@ wallet-login.ru
 groteck.ru
 VASHGD.RU
 mailzen.ru
+frs67.ru
