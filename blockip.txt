@@ -18,3 +18,4 @@
 193.37.70.0/24 # serverlux seo spam
 87.251.86.0/23 # serverlux seo spam
 188.225.46.0/24
+87.246.187.0/24 # emlone.com spam
