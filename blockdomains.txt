@@ -68,3 +68,4 @@ seldon.ru
 des7.ru
 wet7.ru
 s3.wet7.ru
+s5.des7.ru
