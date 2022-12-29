@@ -10,3 +10,5 @@
 /Сертификат соответствия/iu
 /conversation with beautiful woman/i
 /chat with beautiful woman/i
+/ИЛАИТА/i
+/ilaita.ru/i
