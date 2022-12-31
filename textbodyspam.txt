@@ -10,7 +10,9 @@
 /Сертификат соответствия/iu
 /conversation with beautiful woman/i
 /chat with beautiful woman/i
-/ИЛАИТА/i
+/ИЛАИТА/iu
 /ilaita.ru/i
 /Росэлторг/i
-/Получите выигрыш/i
+/Получите выигрыш/iu
+/ОЦ Аргентум/iu
+/Your girl wait you/i
