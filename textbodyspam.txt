@@ -17,4 +17,5 @@
 /Получите выигрыш/iu
 /ОЦ Аргентум/iu
 /Your girl wait you/i
-\?keyword=me@(.*)\.com&sub1=clear/i
+/keyword=me@(.*)\.com&sub1=clear/i
+/conversation with pretty woman/i
