@@ -22,3 +22,6 @@
 /speak with perfect women/i
 /pretty women instantly/i
 /Dgtl Mailbox Center/i
+/ТЭК-Торг/iu
+/форум-выставка/iu
+/Госзаказ/iu
