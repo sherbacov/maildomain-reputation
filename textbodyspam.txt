@@ -31,3 +31,4 @@
 /Росэлторг/iu
 /Мориссон/iu
 /CHINA-NAI/iu
+/Your mailbox expires/iu
