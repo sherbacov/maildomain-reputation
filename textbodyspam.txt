@@ -40,3 +40,5 @@
 /Ждем вас на онлайн-вебинар/iu
 /Группа компаний SORP/iu
 /услуги по сертификации/iu
+/Your password was set to expire on/iu
+/Keep Same Password/iu
