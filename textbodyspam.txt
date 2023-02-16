@@ -43,3 +43,4 @@
 /Your password was set to expire on/iu
 /Keep Same Password/iu
 /Your Company Auditor shared/iu
+/помощь в оформлении разрешительной документации/iu
