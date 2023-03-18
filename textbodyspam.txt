@@ -54,3 +54,6 @@
 /Our current record indicates that your account was detected of spam activities/iu
 /Failure to confirm and update your account within 24 hours/iu
 /YOUR EMAIL ACCOUNT WON A DONATION/iu
+/Занятие проводит/iu
+/Стоимость обучения с проживанием/iu
+/Центр профпереподготовки/iu
