@@ -58,3 +58,8 @@
 /Стоимость обучения с проживанием/iu
 /Центр профпереподготовки/iu
 /Подробная программа и заявка на участие/iu
+/Your mailbox is almost full/iu
+/Admin Host/iu
+/Release pending mails/iu
+/Message is auto-generated from E-mail security server/iu
+/Release pending mails/iu
