@@ -63,3 +63,4 @@
 /Release pending mails/iu
 /Message is auto-generated from E-mail security server/iu
 /Release pending mails/iu
+/Secured Portal powered by Zimbra/iu
