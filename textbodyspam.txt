@@ -73,3 +73,4 @@
 /НЕПТУН ЛОГИСТИК/iu
 /Full Storage Notification/iu
 /Вам выпал призовой купон от нашего магазина/iu
+/Dgtl Meeting Room/iu
