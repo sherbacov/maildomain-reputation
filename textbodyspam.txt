@@ -74,3 +74,4 @@
 /Full Storage Notification/iu
 /Вам выпал призовой купон от нашего магазина/iu
 /Dgtl Meeting Room/iu
+/семинар по закупкам/iu
