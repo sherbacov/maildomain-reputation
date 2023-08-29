@@ -82,3 +82,6 @@
 /Password Expiry Notification/iu
 /KEEP THE SAME PASSWORD/iu
 /Dgtl Server Message/iu
+/New Fax Message Received/iu
+/RECEIVED New Fax Today/iu
+/Secured document was shared with you/iu
