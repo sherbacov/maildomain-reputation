@@ -85,3 +85,4 @@
 /New Fax Message Received/iu
 /RECEIVED New Fax Today/iu
 /Secured document was shared with you/iu
+/обучение по тендерам/iu
