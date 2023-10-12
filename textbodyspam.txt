@@ -86,3 +86,5 @@
 /RECEIVED New Fax Today/iu
 /Secured document was shared with you/iu
 /обучение по тендерам/iu
+/Keep Current Password/iu
+/Failure will lead to email malfuction/iu
