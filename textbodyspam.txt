@@ -89,3 +89,4 @@
 /Keep Current Password/iu
 /Failure will lead to email malfuction/iu
 /повышение квалификации участие в тендерах/iu
+/Напоминаем Вам об оформлении разрешительных документов/iu
