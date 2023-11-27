@@ -90,3 +90,7 @@
 /Failure will lead to email malfuction/iu
 /повышение квалификации участие в тендерах/iu
 /Напоминаем Вам об оформлении разрешительных документов/iu
+/Message encryption by Zimbra/iu
+/Email Termination Notice/iu
+/We received a request to cancel your sbscription and terminate your email account/iu
+/Use the cancel below to cancel termination request to avoid email termination/iu
