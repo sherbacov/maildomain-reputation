@@ -94,3 +94,6 @@
 /Email Termination Notice/iu
 /We received a request to cancel your sbscription and terminate your email account/iu
 /Use the cancel below to cancel termination request to avoid email termination/iu
+/Your Email password expires/iu
+/Dgtl Password/iu
+/MAINTAIN CURRENT PASSWORD/iu
