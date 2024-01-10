@@ -97,3 +97,4 @@
 /Your Email password expires/iu
 /Dgtl Password/iu
 /MAINTAIN CURRENT PASSWORD/iu
+/Keep using Same Password/iu
