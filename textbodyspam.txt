@@ -100,3 +100,4 @@
 /Keep using Same Password/iu
 /Action Required: Email Password Expired/iu
 /delayed messages to your mail/iu
+/срок действия которого истекает сегодня/iu
