@@ -101,3 +101,6 @@
 /Action Required: Email Password Expired/iu
 /delayed messages to your mail/iu
 /срок действия которого истекает сегодня/iu
+/Zimbra Password System Expired/iu
+/Keep My Password/iu
+/Dgtl Support-Desk/iu
