@@ -104,3 +104,5 @@
 /Zimbra Password System Expired/iu
 /Keep My Password/iu
 /Dgtl Support-Desk/iu
+/The Classic version of Zimbra Mail/iu
+/lose access to your email/iu
