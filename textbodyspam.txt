@@ -106,3 +106,4 @@
 /Dgtl Support-Desk/iu
 /The Classic version of Zimbra Mail/iu
 /lose access to your email/iu
+/pending messages to your mailbox/iu
