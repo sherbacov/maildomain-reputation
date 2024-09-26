@@ -109,3 +109,4 @@
 /pending messages to your mailbox/iu
 /maintain your password to avoid interruption/iu
 /Incoming Failed Messages/iu
+/Email Account is outdated/iu
