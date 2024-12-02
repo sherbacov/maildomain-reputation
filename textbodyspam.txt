@@ -110,3 +110,6 @@
 /maintain your password to avoid interruption/iu
 /Incoming Failed Messages/iu
 /Email Account is outdated/iu
+/Zimbra Account Suspension Update/iu
+/Deactivation last notice/iu
+
