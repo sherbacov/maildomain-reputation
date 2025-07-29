@@ -115,3 +115,5 @@
 /Very soon IPV6 blocks/iu
 /срок действия пароля электронной почты/iu
 /Attached Zimbra Error/iu
+/Zimbra Alert/iu
+/Zimbra Online/iu
