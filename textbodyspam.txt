@@ -117,3 +117,5 @@
 /Attached Zimbra Error/iu
 /Zimbra Alert/iu
 /Zimbra Online/iu
+/Zimbra Mail Alert/iu
+
